@@ -6,19 +6,7 @@ body
     font-size: 16px;
     margin: 0;
     padding: 0;
-    font-family: "Courier"
-}
-
-#container {
-    width: 70%;
-    padding: 1em;
-    text-align: left;
-    border: 1px solid #ddd;
-    margin: 0 auto;
-}
-
-#container h1 {
-    font-size: 20px;
+    font-family: "Arial"
 }
 #cabecera
 {
